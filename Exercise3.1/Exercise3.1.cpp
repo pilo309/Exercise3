@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 //Exercise 3.1 For - løkke
 //Opret et nyt Visual Studio projekt(Solution Name : ”Exercise3” – Project Name :
 //”For - loop”).Skriv heri et lille program der udskriver alle lige tal fra 50 til 2 i faldende
